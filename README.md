@@ -7,14 +7,11 @@ This is a **Full Stack Todo Application** built using **Spring Boot, PostgreSQL,
 The project demonstrates complete **CRUD operations**, backend–frontend communication, and persistent storage using PostgreSQL.
 
 ---
-
-## Application Preview
-
-### Todo Application Interface
 ![Todo App Screenshot](Screenshots/Todo1.png)
 
 ### Task Added Example
 ![Todo App Screenshot](Screenshots/Todo2.png)
+
 
 ---
 
