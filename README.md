@@ -16,6 +16,7 @@ The project demonstrates complete **CRUD operations**, backend–frontend commun
 ### Task Added Example
 ![Todo App Screenshot](Screenshots/Todo2.png)
 
+---
 
 # Tech Stack
 
