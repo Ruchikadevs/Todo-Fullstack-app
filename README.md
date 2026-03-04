@@ -1,7 +1,7 @@
 # Full Stack Todo Application
 
 ## Live Application
-https://your-render-url.onrender.com
+https://todo-fullstack-deploy.onrender.com
 
 ## Overview
 
