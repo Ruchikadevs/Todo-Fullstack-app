@@ -8,6 +8,15 @@ The project demonstrates complete **CRUD operations**, backend–frontend commun
 
 ---
 
+## Application Preview
+
+### Todo Application Interface
+![Todo App Screenshot](Screenshots/Todo1.png)
+
+### Task Added Example
+![Todo App Screenshot](Screenshots/Todo2.png)
+
+
 # Tech Stack
 
 ## Backend
