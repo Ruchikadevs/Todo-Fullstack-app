@@ -27,10 +27,9 @@ The project demonstrates complete **CRUD operations**, backend–frontend commun
 
 * PostgreSQL
 
-## Deployment
+## Containerization
 
 * Docker
-* Render (Cloud Deployment)
 
 ---
 
@@ -86,13 +85,13 @@ Run:
 ./mvnw spring-boot:run
 ```
 
-The backend server runs on:
+Backend runs on:
 
 ```
 http://localhost:8080
 ```
 
-You can verify the API by visiting:
+You can test the API at:
 
 ```
 http://localhost:8080/todos
@@ -126,23 +125,23 @@ http://localhost:5173
 
 ## 3. Open the Application
 
-Open your browser and go to:
+Open the browser and visit:
 
 ```
 http://localhost:5173
 ```
 
-The React frontend will communicate with the Spring Boot backend running on **port 8080**.
+The React frontend communicates with the Spring Boot backend running on **port 8080**.
 
 ---
 
 # What This Project Demonstrates
 
-* REST API design using Spring Boot
-* Database integration with PostgreSQL and JPA
+* REST API development using Spring Boot
+* Database integration using PostgreSQL and JPA
 * Frontend–backend communication
-* Full-stack architecture
-* Containerized deployment using Docker
+* Full-stack application architecture
+* Containerization using Docker
 
 ---
 
